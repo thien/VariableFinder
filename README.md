@@ -1,5 +1,5 @@
 # VariableFinder
-PHP Based variable and function sniffer. Displays finding as a table, alongside its location.
+fairly unintelligent and rushed PHP Based variable and function sniffer. Displays finding as a table, alongside its location. Will try its best to remove duplicates. 
 
 ## Setup
 Just change the directory variable to the root folder of your PHP based program, and load the php file.
